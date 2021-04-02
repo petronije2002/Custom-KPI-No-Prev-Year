@@ -7,7 +7,7 @@ var powerbi: any = window[powerbiKey];
 
 var customKPInpPrev9AAB3DB28C684880BE8BFF59E94A3EF0: IVisualPlugin = {
     name: 'customKPInpPrev9AAB3DB28C684880BE8BFF59E94A3EF0',
-    displayName: 'customKPInoPrev',
+    displayName: 'custom KPI noPrev',
     class: 'Visual',
     apiVersion: '2.6.0',
     create: (options: VisualConstructorOptions) => {
